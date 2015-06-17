@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        MrCarlesX1
+// @namespace   MrCarlesX1
 // @include     http://agar.io/
 // @version     3.05
 // @grant       none
